@@ -3,43 +3,43 @@ const item = [
     {
       id: 1,
       image:
-        'https://res.cloudinary.com/aurumtechllc/image/upload/v1658081890/BLOK_CRACY__1_-removebg-preview_t6eyvz.png',
-      project: 'Blokracy',
+        '--your image--',
+      project: 'PROJECT1',
       description:
-      'Public voting dApp built on the blockchain',
-      link: '/blokracy',
-      whitepaper: '/Whitepapers/blokracy',
+      'lorem ipsum dolor sit amet',
+      link: '/project1',
+      whitepaper: '/Whitepapers/project1',
     },
     {
       id: 2,
       image:
-        'https://res.cloudinary.com/aurumtechllc/image/upload/v1658011812/256__2_-removebg-preview_n2sdmn.png',
-      project: 'Persona256',
+        '--your image--',
+      project: 'PROJECT2',
       description:
-      'Blockchain-powered identification service with encryption for comprehensive security',
-      link: '/persona256',
-      whitepaper: '/Whitepapers/persona256',
+      'lorem ipsum dolor sit amet',
+      link: '/project2',
+      whitepaper: '/Whitepapers/project2',
     },
     {
       id: 3,
       image:
-        'https://res.cloudinary.com/aurumtechllc/image/upload/v1658079421/Untitled_design__2_-removebg-preview_kdkewn.png',
-      project: 'PLATO5',
+        '--your image--',
+      project: 'PROJECT3',
       description:
-      '[IN PRODUCTION]',
-      link: '',
-      whitepaper: '',
+      'lorem ipsum dolor sit amet',
+      link: '/project3',
+      whitepaper: '/Whitepapers/project3',
     },
     {
-    id: 4,
-    image:
-      'https://res.cloudinary.com/aurumtechllc/image/upload/v1658079630/Tix__1_-removebg-preview_m7yph7.png',
-    project: 'Tixchain',
-    description:
-    '[IN PRODUCTION]',
-    link: '',
-    whitepaper: '',
-  },
+      id: 4,
+      image:
+        '--your image--',
+      project: 'PROJECT4',
+      description:
+      'lorem ipsum dolor sit amet',
+      link: '/project4',
+      whitepaper: '/Whitepapers/project4',
+    }
   ];
   
   export default item;
