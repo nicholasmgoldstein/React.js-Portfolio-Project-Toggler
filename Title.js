@@ -4,7 +4,7 @@ import React from 'react';
 function Title () {
   return (
     <div id="title">
-      <img className="logo" src="https://res.cloudinary.com/aurumtechllc/image/upload/v1658246656/betterforsizing-removebg-preview_sjvdj1.png" alt="Aurum Tech LLC"/>
+      <img className="logo" src="--your logo--"/>
       <nav>
         <a href="/#blurb">
           <button className="navBtn">About Us</button>
